@@ -93,6 +93,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra002s&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" alt="Top Languages" height="170"/>
 
+<br><br>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudra002s&theme=github_dark)
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%">
