@@ -8,7 +8,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%">
 
 <div align="center">
 
@@ -96,26 +96,6 @@
 <br><br>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudra002s&theme=github_dark)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%">
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=rudra002s&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%">
-
-<div align="center">
-
-## 🔝 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=rudra002s&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 </div>
 
