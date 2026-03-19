@@ -61,11 +61,19 @@
 ### **Frontend & Libraries**
 
 <a href="#"><img src="https://img.shields.io/badge/REACT-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React"/></a>
+<a href="#"><img src="https://img.shields.io/badge/TAILWIND%20CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/></a>
 <a href="#"><img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/></a>
+
+### **Backend**
+
+<a href="#"><img src="https://img.shields.io/badge/NODE.JS-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/></a>
+<a href="#"><img src="https://img.shields.io/badge/EXPRESS.JS-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/></a>
 
 ### **Database**
 
 <a href="#"><img src="https://img.shields.io/badge/MYSQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
+<a href="#"><img src="https://img.shields.io/badge/MONGODB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
+<a href="#"><img src="https://img.shields.io/badge/MONGOOSE-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"/></a>
 
 ### **Design & Creative**
 
