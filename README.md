@@ -88,6 +88,12 @@
 <a href="#"><img src="https://img.shields.io/badge/ANACONDA-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/></a>
 <a href="#"><img src="https://img.shields.io/badge/WINDOWS%20TERMINAL-%234D4D4D.svg?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Windows Terminal"/></a>
 <a href="#"><img src="https://img.shields.io/badge/XBOX-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white" alt="Xbox"/></a>
+<a href="https://support.apple.com/guide/terminal/welcome/mac" target="_blank">
+    <img src="https://img.shields.io/badge/Mac%20Terminal-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Mac Terminal"/>
+  </a>
+  <a href="https://brew.sh" target="_blank">
+    <img src="https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=black" alt="Homebrew"/>
+  </a>
 
 </div>
 
