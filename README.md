@@ -94,6 +94,7 @@
   <a href="https://brew.sh" target="_blank">
     <img src="https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=black" alt="Homebrew"/>
   </a>
+<img width="731" height="721" alt="image" src="https://github.com/user-attachments/assets/4b44a717-6266-433c-8acf-f52b3cd9d02d" />
 
 </div>
 
