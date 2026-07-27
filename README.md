@@ -14,7 +14,7 @@
 
 ## 💫 About Me
 
-🎓 **2nd-year student** at University School of Automation and Robotics (USAR)  
+🎓 **3rd-year student** at University School of Automation and Robotics (USAR)  
 💻 Passionate about **Web Development**, **AI/ML**, and **Automation**  
 🌱 Currently exploring **Full Stack Development** and **Data Science**  
 🎯 **Goal**: Building innovative solutions that create a difference  
