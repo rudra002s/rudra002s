@@ -70,7 +70,7 @@
 <a href="#"><img src="https://img.shields.io/badge/NODE.JS-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/></a>
 <a href="#"><img src="https://img.shields.io/badge/EXPRESS.JS-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/></a>
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### **Database**
 
